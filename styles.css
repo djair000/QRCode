@@ -24,9 +24,6 @@ body {
     rgba(10, 227, 217, 1) 95%,
     rgba(0, 212, 255, 1) 100%
   );
-   @media only screen and (min-width: 600px) {
-    
-  }
 }
  
 .wrapper {
