@@ -16,7 +16,7 @@ body {
   height: 100%;
   display: grid;
   place-items: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat-y;
   background: rgb(2, 0, 36);
   background: linear-gradient(
     90deg,
